@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #264653;
+    color: white;
+}
+.header-heading{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.header_paragraph{
+    color: #E0E0E0;
+    max-width: 456px;
+}
+.header-button{
+    width: 10.5rem;
+    height: 2.75rem;
+    background-color: #E76F51;
+    font-weight: 500;
+}
