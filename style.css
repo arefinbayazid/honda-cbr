@@ -6,7 +6,7 @@
 }
 header{
     background-color: #264653;
-    color: white;
+    color: #fff;
 }
 .header-heading{
     font-size: 3rem;
@@ -22,3 +22,20 @@ header{
     background-color: #E76F51;
     font-weight: 500;
 }
+.header-modal{
+    color: rgb(14, 18, 31);
+}
+.header-modal-title{
+    color: #E76F51;
+}
+.header-modal-no{
+    background-color: #264653;
+}
+.header-modal-yes{
+    background-color: #E76F51;
+}
+
+
+/* ----------------------
+    main started
+------------------------*/
