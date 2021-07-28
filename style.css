@@ -39,3 +39,12 @@ header{
 /* ----------------------
     main started
 ------------------------*/
+.featured-text-small{
+    color: #E76F51;
+}
+.featured-images{
+    padding: 7.5rem 0;
+}
+.feature-grayscale{
+    filter: grayscale(1);
+}
