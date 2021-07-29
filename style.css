@@ -51,6 +51,32 @@ body{
 .feature-grayscale{
     filter: grayscale(1);
 }
+.latest-news{
+    margin-bottom: 10rem;
+}
+.latest-news h1{
+    color: #0A0826;
+    font-weight: 600;
+}
+.latest-news-card-title{
+    color: #18191F;
+    font-weight: 600;
+}
+.latest-news-card-paragraph{
+    color: #6C6C6C;
+}
+.fill-card-button{
+    width: 10rem;
+    height: 3.5625rem;
+    background-color: #E76F51;
+}
+.unfill-card-button{
+    width: 10rem;
+    height: 3.5625rem;
+    border: 1px solid#E76F51;
+    color: #E76F51;
+    font-weight: 500;
+}
 .tesitimunial-title{
     font-weight: 600;
     color: #0A0826;
