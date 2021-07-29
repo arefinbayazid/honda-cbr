@@ -39,6 +39,9 @@ header{
 /* ----------------------
     main started
 ------------------------*/
+body{
+    background: #E5E5E5;
+}
 .featured-text-small{
     color: #E76F51;
 }
@@ -76,4 +79,29 @@ header{
 .person-profetion{
     font-weight: 600;
     color: #252B42;
+}
+.frequently-box{
+    margin-top: 7rem;
+    margin-bottom: 8.75rem;
+}
+.accordion-item-1{
+    border: 1px solid #D5E5FB;
+    margin-bottom: 21px;
+}
+.accordion-item-2{
+    border: 1px solid #D5E5FB;
+    margin-bottom: 13px;
+}
+.accordion-item-3{
+    border: 1px solid #D5E5FB;
+    margin-bottom: 8px;
+}
+.accordion-item-4{
+    border: 1px solid #D5E5FB;
+}
+.accordion-item-header{
+    color: #383838;
+}
+.accordion-item-paragraph{
+    color: #7E848C;
 }
