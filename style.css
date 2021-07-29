@@ -8,6 +8,11 @@ header{
     background-color: #264653;
     color: #fff;
 }
+.nav-btn{
+    background-color: #E76F51;
+    padding: 10px 24px;
+    margin-left: 100px;
+}
 .header-heading{
     font-size: 3rem;
     font-weight: 600;
@@ -150,4 +155,14 @@ body{
 }
 .footer-second-row{
     max-width: 475px;
+}
+
+@media only screen and (max-width:576px) {
+    .dropdown{
+        display: none;
+    }
+    .footer-second-row{
+        max-width: 200px;
+        flex-wrap: wrap;
+    }
 }
