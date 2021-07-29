@@ -10,8 +10,8 @@ header{
 }
 .nav-btn{
     background-color: #E76F51;
-    padding: 10px 24px;
-    margin-left: 100px;
+    padding: 0.625rem 1.5rem;
+    margin-left: 6.25rem;
 }
 .header-heading{
     font-size: 3rem;
@@ -19,7 +19,7 @@ header{
 }
 .header_paragraph{
     color: #E0E0E0;
-    max-width: 456px;
+    max-width: 28.25rem;
 }
 .header-button{
     width: 10.5rem;
@@ -132,15 +132,15 @@ body{
 }
 .accordion-item-1{
     border: 1px solid #D5E5FB;
-    margin-bottom: 21px;
+    margin-bottom: 1.3125rem;
 }
 .accordion-item-2{
     border: 1px solid #D5E5FB;
-    margin-bottom: 13px;
+    margin-bottom: 0.8125rem;
 }
 .accordion-item-3{
     border: 1px solid #D5E5FB;
-    margin-bottom: 8px;
+    margin-bottom: 0.5rem;
 }
 .accordion-item-4{
     border: 1px solid #D5E5FB;
@@ -152,7 +152,7 @@ body{
     color: #7E848C;
 }
 .find-product{
-    padding-bottom: 150px;
+    padding-bottom: 9.375rem;
 }
 .slider-images{
     background-color:rgba(236, 240, 241, 1)
@@ -163,21 +163,27 @@ body{
     footer
 ----------------*/
 .footer-row{
-    padding-bottom: 80px;
+    padding-bottom: 5rem;
 }
 .footer-fist-row{
-    max-width: 192px;
+    max-width: 12rem;
 }
 .footer-second-row{
-    max-width: 475px;
+    max-width: 39.58rem;
 }
 
+
+
+
+/* --------------
+    media quary
+----------------*/
 @media only screen and (max-width:576px) {
     .dropdown{
         display: none;
     }
     .footer-second-row{
-        max-width: 200px;
+        max-width: 12.5rem;
         flex-wrap: wrap;
     }
 }
