@@ -137,3 +137,17 @@ body{
 .slider-images{
     background-color:rgba(236, 240, 241, 1)
 }
+
+
+/* --------------
+    footer
+----------------*/
+.footer-row{
+    padding-bottom: 80px;
+}
+.footer-fist-row{
+    max-width: 192px;
+}
+.footer-second-row{
+    max-width: 475px;
+}
