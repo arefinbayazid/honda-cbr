@@ -48,3 +48,32 @@ header{
 .feature-grayscale{
     filter: grayscale(1);
 }
+.tesitimunial-title{
+    font-weight: 600;
+    color: #0A0826;
+}
+.tesitimunial-title-span{
+    color: #E76F51;
+}
+.cards{
+    margin-bottom: 9.875rem;
+}
+.card-box{
+    padding: 2.5rem 2.1875rem;
+    border: 1px solid #DEDEDE;
+    cursor: pointer;
+}
+.card-box-paragraph{
+    color: #6C6C6C;
+}
+.rateing{
+    color: #E76F51;
+}
+.person-name{
+    font-weight: 600;
+    color: #23A6F0;
+}
+.person-profetion{
+    font-weight: 600;
+    color: #252B42;
+}
